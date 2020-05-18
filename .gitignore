@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WorkOrderExtractorErmeo/.vs/WorkOrderExtractorErmeo
+/WorkOrderExtractorErmeo/bin/Debug/netcoreapp3.1
+/WorkOrderExtractorErmeo/obj
